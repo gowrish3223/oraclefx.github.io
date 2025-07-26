@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oracle Asset FX</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d0d0d;
+            color: #f5f5f5;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #1a1a1a;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3em;
+            color: #FFD700;
+        }
+        header p {
+            font-size: 1.2em;
+            color: #ccc;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .pricing-table, .payment-section {
+            background-color: #1a1a1a;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        .pricing-table table {
+            width: 100%;
+            border-collapse: collapse;
+            color: #f5f5f5;
+        }
+        .pricing-table th, .pricing-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #333;
+            text-align: left;
+        }
+        .cta {
+            display: inline-block;
+            background-color: #FFD700;
+            color: #000;
+            padding: 12px 25px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 30px 10px;
+            background-color: #1a1a1a;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Oracle Asset FX</h1>
+        <p>Dominate the Charts. Fund Your Freedom.</p>
+        <a class="cta" href="https://t.me/zeusz32" target="_blank">Join VIP Telegram</a>
+    </header>
+
+    <section>
+        <h2>What We Offer</h2>
+        <ul>
+            <li><strong>Forex Signals:</strong> Daily sniper entries with high RR setups.</li>
+            <li><strong>1-on-1 Mentorship:</strong> Personalized mindset & strategy coaching.</li>
+            <li><strong>Prop Firm Assassin Kit:</strong> PDF strategy kit to pass FTMO/MFF challenges.</li>
+        </ul>
+
+        <div class="pricing-table">
+            <h3>Pricing</h3>
+            <table>
+                <tr><th>Service</th><th>INR</th><th>USD</th></tr>
+                <tr><td>Signals (1 Month)</td><td>₹499</td><td>$7</td></tr>
+                <tr><td>Signals (3 Months)</td><td>₹1199</td><td>$15</td></tr>
+                <tr><td>Signals (Lifetime)</td><td>₹2999</td><td>$40</td></tr>
+                <tr><td>Mentorship (30 mins)</td><td>₹799</td><td>$10</td></tr>
+                <tr><td>Mentorship (1 Week)</td><td>₹1999</td><td>$25</td></tr>
+                <tr><td>PDF Kit</td><td>₹299</td><td>$5</td></tr>
+            </table>
+        </div>
+
+        <div class="payment-section">
+            <h3>Payment Methods</h3>
+            <p><strong>India UPI:</strong> oracle.assetfx@axl</p>
+            <p><strong>Wise (USD/EUR/GBP):</strong> Coming Soon</p>
+            <p><strong>USDT (TRC20):</strong> Coming Soon</p>
+            <p><em>After payment, send screenshot to Telegram: <a href="https://t.me/zeusz32" target="_blank">@zeusz32</a></em></p>
+        </div>
+    </section>
+
+    <footer>
+        &copy; 2025 Oracle Asset FX. All rights reserved.
+    </footer>
+
+</body>
+</html>
